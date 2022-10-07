@@ -1,0 +1,6 @@
+.square {
+    list-style-type: square;
+}
+ul#five li {
+    display: inline;
+}
